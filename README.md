@@ -10,6 +10,7 @@ My GitHub portfolio showcases projects in:
 - 🛠️ Ensemble Learning & Optimization Algorithms
 - 📊 Vision-Language Models & VQA Systems
 - ⚡ And many other topics
+  
 I’m passionate about open science, collaborative research, and building tools that bridge academic innovation with societal impact. Feel free to explore my repositories, connect with me on LinkedIn, or reach out for collaboration opportunities.
 <!--
 **akkasi/akkasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
