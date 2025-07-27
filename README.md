@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I'm Abbas Akkasi, a computer scientist with a PhD in Computer Engineering and a strong international academic background. My research and teaching experience spans Natural Language Processing (NLP), Generative AI, Deep Learning, and Cybersecurity, with a particular focus on applying these technologies to real-world challenges in biomedical text mining, accessibility, and intelligent systems.
+I'm Abbas Akkasi, a computer scientist with a PhD in Computer Engineering and a strong international academic background. My research and teaching experience spans Natural Language Processing (NLP), Generative AI, Deep Learning, and Cybersecurity, with a particular focus on applying these technologies to real-world challenges in biomedical text mining, accessibility, and intelligent systems.
 
 Over the past decade, I’ve held academic and research positions across Canada, Europe, and the Middle East, including postdoctoral fellowships at Carleton University, KU Leuven, and the University of Zagreb. I’ve published extensively in peer-reviewed journals and conferences, contributed to funded research projects, and mentored graduate students in AI-related fields.
 
